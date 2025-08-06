@@ -21,13 +21,13 @@ export default function Team() {
                                 <div className="image_box">
                                     <figure className="image"><img src="https://i.pinimg.com/736x/2c/60/c9/2c60c95337ce789f44f3cb644062fc2e.jpg" alt=""/></figure>
                                     <ul className="team_social_links">
-                                        <li><Link href="/team"><i className="fab fa-facebook-f"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-twitter"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-skype"></i></Link></li>
+                                        <li><Link href="https://www.facebook.com/GKINTERIORSDECOR?rdid=BU5knUOiZeLmypQg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16jVP7Pxwq%2F#"><i className="fab fa-facebook-f"></i></Link></li>
+                                        <li><Link href="https://www.instagram.com/gkhomedecors?igsh=MWJ6eHkxZnczcDNzbg=="><i className="fab fa-instagram"></i></Link></li>
+                                        <li><Link href="https://www.linkedin.com/in/gk-homedecorz-a988b9364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i className="fab fa-linkedin"></i></Link></li>
                                     </ul>
                                 </div>
                                 <div className="lower_content">
-                                    <h4><Link href="/team">Ronald Richards</Link></h4>
+                                    <h4>Ronald Richards</h4>
                                     <span className="designation">Lead Interior Designer</span>
                                 </div>
                             </div>
@@ -39,13 +39,13 @@ export default function Team() {
                                 <div className="image_box">
                                     <figure className="image"><img src="https://i.pinimg.com/736x/c7/61/cb/c761cbf39d8c6f6eb3c38248b5b47209.jpg" alt=""/></figure>
                                     <ul className="team_social_links">
-                                        <li><Link href="/team"><i className="fab fa-facebook-f"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-twitter"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-skype"></i></Link></li>
+                                        <li><Link href="https://www.facebook.com/GKINTERIORSDECOR?rdid=BU5knUOiZeLmypQg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16jVP7Pxwq%2F#"><i className="fab fa-facebook-f"></i></Link></li>
+                                        <li><Link href="https://www.instagram.com/gkhomedecors?igsh=MWJ6eHkxZnczcDNzbg=="><i className="fab fa-instagram"></i></Link></li>
+                                        <li><Link href="https://www.linkedin.com/in/gk-homedecorz-a988b9364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i className="fab fa-linkedin"></i></Link></li>
                                     </ul>
                                 </div>
                                 <div className="lower_content">
-                                    <h4><Link href="/team">Theresa Webb</Link></h4>
+                                    <h4>Theresa Web</h4>
                                     <span className="designation">Home Styling Specialist</span>
                                 </div>
                             </div>
@@ -57,13 +57,13 @@ export default function Team() {
                                 <div className="image_box">
                                     <figure className="image"><img src="https://i.pinimg.com/736x/6c/c5/19/6cc519f013abcf2ad6168a126ee877db.jpg" alt=""/></figure>
                                     <ul className="team_social_links">
-                                        <li><Link href="/team"><i className="fab fa-facebook-f"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-twitter"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-skype"></i></Link></li>
+                                        <li><Link href="https://www.facebook.com/GKINTERIORSDECOR?rdid=BU5knUOiZeLmypQg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16jVP7Pxwq%2F#"><i className="fab fa-facebook-f"></i></Link></li>
+                                        <li><Link href="https://www.instagram.com/gkhomedecors?igsh=MWJ6eHkxZnczcDNzbg=="><i className="fab fa-instagram"></i></Link></li>
+                                        <li><Link href="https://www.linkedin.com/in/gk-homedecorz-a988b9364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i className="fab fa-linkedin"></i></Link></li>
                                     </ul>
                                 </div>
                                 <div className="lower_content">
-                                    <h4><Link href="/team">Brooklyn Simmons</Link></h4>
+                                    <h4>Brooklyn Simmons</h4>
                                     <span className="designation">Sustainable Decor Expert</span>
                                 </div>
                             </div>
@@ -75,13 +75,13 @@ export default function Team() {
                                 <div className="image_box">
                                     <figure className="image"><img src="https://i.pinimg.com/736x/15/94/7b/15947b01c4adf43b0cebcb5022d9cd2d.jpg" alt=""/></figure>
                                     <ul className="team_social_links">
-                                        <li><Link href="/team"><i className="fab fa-facebook-f"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-twitter"></i></Link></li>
-                                        <li><Link href="/team"><i className="fab fa-skype"></i></Link></li>
+                                        <li><Link href="https://www.facebook.com/GKINTERIORSDECOR?rdid=BU5knUOiZeLmypQg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16jVP7Pxwq%2F#"><i className="fab fa-facebook-f"></i></Link></li>
+                                        <li><Link href="https://www.instagram.com/gkhomedecors?igsh=MWJ6eHkxZnczcDNzbg=="><i className="fab fa-instagram"></i></Link></li>
+                                        <li><Link href="https://www.linkedin.com/in/gk-homedecorz-a988b9364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i className="fab fa-linkedin"></i></Link></li>
                                     </ul>
                                 </div>
                                 <div className="lower_content">
-                                    <h4><Link href="/team">Leslie Alexander</Link></h4>
+                                    <h4>Leslie Alexander</h4>
                                     <span className="designation">Organization & Storage Pro</span>
                                 </div>
                             </div>

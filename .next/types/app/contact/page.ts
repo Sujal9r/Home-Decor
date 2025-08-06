@@ -1,4 +1,4 @@
-// File: C:\Users\Deeporion\Desktop\Home-decor\Home-Decor\app\contact\page.js
+// File: /Users/suzal9r/Desktop/Gk Home Decor/Home-Decor/app/contact/page.js
 import * as entry from '../../../../app/contact/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
