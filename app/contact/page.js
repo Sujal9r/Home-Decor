@@ -38,12 +38,12 @@ export default function Contact_Page() {
         <section className="google_map" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500">
             <div className="container">
                 <div className="map_outer_box">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28469.514344510128!2d75.745441!3d26.881611!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db410e1d781c3%3A0x62ee6e23ef3c9ccb!2sHoliday%20Inn%20Jaipur%20City%20Centre%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sus!4v1754038072194!5m2!1sen!2sus" height={570} style={{ border: 0, width: "100%" }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.7881216591836!2d75.7581013754383!3d26.87847197666751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db53860a3593b%3A0x635d79816ced4d4b!2sGK%20HOME%20DECORZ!5e0!3m2!1sen!2sin!4v1754475643808!5m2!1sen!2sin" height={570} style={{ border: 0, width: "100%" }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
                 </div>
             </div>
         </section>
-        <section className="contact_section pt_150 pb_120" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500">
-            <div className="container">
+        <section className="contact_section pt_150" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="500">
+            {/* <div className="container">
                 <div className="section_title centred">
                     <div className="tag_text"><h6>Contact Info</h6></div>
                     <h2>Contact Information</h2>
@@ -72,7 +72,7 @@ export default function Contact_Page() {
                         </div>
                     </div>
                 </form>
-            </div>
+            </div> */}
         </section>
         </Layout>
     </div>
